@@ -1,4 +1,7 @@
-
+💫 Hi 👋, I'm Harshit Mainali
+A passionate Web Developer
+🌱 I’m currently learning: MERN Stack
+📫 How to reach me: harshitmainali417@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-mainali-9b728a247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitmainali417@gmail.com) 
 
